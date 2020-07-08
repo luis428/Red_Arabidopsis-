@@ -1,5 +1,8 @@
 # Red_Arabidopsis-
 Se realizo una busqueda del gen AGL67 en genemania.org que fue previamente reconocido en el  articulo "www.pnas.org/content/pnas/113/35/E5232.full.pdf" en genemia aplicamos las distintas herramientas que nos ayudaron a entender como este gen interacciona con los demas presentes .
+En cada una muestra que las interacciones del AGL67 muestra que las interacciones no son tan fuertes, pero destaca la interaccion fisica que muestra una fuerte afinidad los genes puede que ina de las razones por las que se da esto es por la funcion que desempeña este gen.
+
+
 La funcion que desempeña este gen es: 
     
 GO - Función molecular 

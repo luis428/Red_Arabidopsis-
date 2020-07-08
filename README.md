@@ -27,3 +27,33 @@ GO - Proceso biológico
 desarrollo de organismos multicelulares Fuente: GO_Central 
 
 desarrollo de polen Fuente: GO_Central
+
+Red de gen AGL67a
+A simple vista se  ve que la interaccion con el gen objetivo no tiene interaccion fuerte con los demas genes.
+
+![image](https://user-images.githubusercontent.com/67980504/86859472-51484f00-c088-11ea-9eca-0fd4f2abb4f6.png)
+
+Interacciones fisicas
+Destca la interaccion entre  AGL108 y AGL82
+
+![image](https://user-images.githubusercontent.com/67980504/86859502-62915b80-c088-11ea-9b9f-d7249a5c8988.png)
+
+Predicho 
+
+![image](https://user-images.githubusercontent.com/67980504/86859556-8359b100-c088-11ea-8c17-5f0d07e95956.png) 
+
+Coexprecion 
+
+![image](https://user-images.githubusercontent.com/67980504/86859576-92d8fa00-c088-11ea-96bc-1ac6b1bb3d0c.png)
+
+Dominio de proteinas  compartidas 
+
+![image](https://user-images.githubusercontent.com/67980504/86859617-abe1ab00-c088-11ea-8379-240f36ab85cb.png) 
+
+Interacciones geneticas
+
+![image](https://user-images.githubusercontent.com/67980504/86859654-bbf98a80-c088-11ea-8c55-c25fa1e687dd.png)
+
+Co-localizacion
+
+![image](https://user-images.githubusercontent.com/67980504/86859698-d0d61e00-c088-11ea-9efe-52515207bb65.png)
